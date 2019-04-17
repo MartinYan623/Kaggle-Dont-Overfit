@@ -14,3 +14,13 @@ Got score 0.515 (Top96%)
 (1) use more classification models to do task.
 
 Got score 0.602 (Top92%)
+
+2019.4.17
+
+(1) learn to use cross-validation and kfold.
+
+(2) LogisticRegressionCV is a amazing method to do classification task and we need
+
+to focus more on its parameters. it will give you a great improving.
+
+Got score 0.748 (Top60%)
